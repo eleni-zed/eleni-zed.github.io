@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eleni Interiors | Modern Living Room & Minimalist Interior Design</title>
+    <meta name="description" content="A modern home interior design portfolio showcasing minimalist living spaces, heritage aesthetics, and digital visualization for contemporary homes.">
+    <style>
+        :root {
+            --primary-color: #2c2c2c;
+            --accent-color: #bfa181;
+            --bg-color: #f9f8f6;
+            --text-color: #4a4a4a;
+        }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            line-height: 1.6;
+        }
+        header {
+            background: #ffffff;
+            padding: 2rem;
+            text-align: center;
+            border-bottom: 1px solid #e5e5e5;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5rem;
+            color: var(--primary-color);
+            letter-spacing: 2px;
+        }
+        header p {
+            color: var(--accent-color);
+            font-weight: 600;
+            margin-top: 0.5rem;
+        }
+        .container {
+            max-width: 900px;
+            margin: 2rem auto;
+            background: #ffffff;
+            padding: 3rem;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+            border-radius: 8px;
+        }
+        h2 {
+            color: var(--primary-color);
+            border-bottom: 2px solid var(--accent-color);
+            padding-bottom: 0.5rem;
+            margin-top: 2.5rem;
+        }
+        h3 {
+            color: var(--primary-color);
+            margin-top: 2rem;
+        }
+        p {
+            margin-bottom: 1.5rem;
+        }
+        ul {
+            margin-bottom: 1.5rem;
+            padding-left: 20px;
+        }
+        li {
+            margin-bottom: 0.5rem;
+        }
+        .highlight-box {
+            background: #f4f1eb;
+            border-left: 4px solid var(--accent-color);
+            padding: 1.5rem;
+            margin: 2rem 0;
+            font-style: italic;
+        }
+        footer {
+            text-align: center;
+            padding: 1.5rem;
+            font-size: 0.9rem;
+            color: #888;
+        }
+        a {
+            color: var(--accent-color);
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>ELENI INTERIORS</h1>
+        <p>Heritage Artistry & Digital Visualization for Modern Living</p>
+    </header>
+
+    <div class="container">
+        <h2>Professional Interior Decorating – Elevating Your Home’s Style and Comfort</h2>
+        <p>Embracing thoughtful <a href="https://eleni.wuaze.com/" target="_blank">interior decorating</a> is the ideal starting point for homeowners who want to transform their living spaces into environments that feel both beautiful and deeply personal. A well-decorated home brings together colors, textures, furniture, and lighting to create a harmonious atmosphere. Whether you are refreshing a single room or styling an entire house, professional interior decorating helps you make better use of every available square foot, ensuring that your space reflects your unique taste while remaining exceptionally functional for daily life.</p>
+        
+        <p>Our design approach begins by understanding your lifestyle, preferences, and long-term requirements. From selecting the right color palettes and window treatments to choosing statement artwork and decorative accessories, every choice contributes significantly to the overall character and comfort of your living environment.</p>
+
+        <div class="highlight-box">
+            "From concept to reality, we elevate interiors into functional masterpieces built for modern living, focusing heavily on modern living room design and minimalist interior design."
+        </div>
+
+        <h3>Why Expert Guidance Makes a Difference</h3>
+        <p>Working with a trusted local expert ensures that your personal vision is translated into a cohesive reality. Instead of relying on guesswork or mismatched pieces, professional guidance helps you expertly balance aesthetics with everyday usability.</p>
+        
+        <ul>
+            <li><strong>Tailored Aesthetic Harmony:</strong> Every room is styled with a clear vision, ensuring colors and textures complement each other flawlessly.</li>
+            <li><strong>Cohesive Spatial Balance:</strong> From modern minimalist touches to warm classic styles, your preferred theme flows seamlessly across every interconnected area.</li>
+            <li><strong>Stress-Free Execution:</strong> Expert coordination helps you avoid costly mistakes, giving you a polished, high-end look without the usual renovation headaches.</li>
+        </ul>
+
+        <h3>Transforming Key Spaces in Your Home</h3>
+        <h4>Kitchen Styling and Finishes</h4>
+        <p>While kitchens require intense functional planning, proper <a href="https://eleni.wuaze.com/" target="_blank">interior decorating</a> ensures they still feel warm and welcoming. By pairing sleek cabinets with stylish hardware, tasteful pendant lighting, and complementary backsplashes, the kitchen becomes an attractive extension of your home's overall aesthetic rather than just a workspace.</p>
+
+        <h4>Living Room and Bedroom Styling</h4>
+        <p>Living rooms and bedrooms benefit immensely from layered details. The right combination of plush rugs, elegant curtains, decorative pillows, and mood lighting can completely change the atmosphere of a room. Through careful <a href="https://eleni.wuaze.com/" target="_blank">interior decorating</a>, we focus on creating balanced spaces where every element has a specific purpose, enhancing your existing architecture without ever overwhelming it.</p>
+
+        <h3>Bring Your Vision to Life</h3>
+        <p>Investing in professional design and styling isn't just about how a room looks on camera—it is about dramatically improving how you experience your living environment every single day. Good <a href="https://eleni.wuaze.com/" target="_blank">interior decorating</a> should enhance the existing architecture rather than overwhelm it. If you are ready to elevate your interiors, working with experienced professionals ensures stunning, long-lasting results tailored precisely to your lifestyle.</p>
+
+        <p><strong>Get in touch with Eleni Interiors today to discuss your next project, explore customized design packages, and take the first step toward your dream home!</strong></p>
+    </div>
+
+    <footer>
+        <p>&copy; 2026 Eleni Interiors. All rights reserved. | Hosted on <a href="https://docs.github.com/en/pages" target="_blank">GitHub Pages</a></p>
+    </footer>
+</body>
+</html>
